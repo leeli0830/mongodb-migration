@@ -1,4 +1,3 @@
-from bson.datetime_ms import DatetimeMS
 from bson.codec_options import DatetimeConversion
 from pymongo import MongoClient
 from dotenv import load_dotenv
